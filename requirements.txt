@@ -2,3 +2,5 @@ flask
 gunicorn
 scikit-learn
 pandas
+
+#-e .
